@@ -8,9 +8,11 @@ The purpose of the project is to use SqlAlchemy to query temperature measurement
 - Sofware: Python 3.10.4, SQLAlchemy, hawaii.sqlite,Flask, conda
 ## Summary
 The statistical summary of June temperature data
-![image](https://github.com/mabulhassan/surfs_up/blob/main/Resources/JuneTemp.png)
+
+![image](https://github.com/mabulhassan/surfs_up/blob/main/JuneTemp.png)
 The statistical summary of December temperature data
-![image](https://github.com/mabulhassan/surfs_up/blob/main/Resources/DecTemp.png)
+
+![image](https://github.com/mabulhassan/surfs_up/blob/main/DecTemp.png)
 ## Challenge Summany
 
 
